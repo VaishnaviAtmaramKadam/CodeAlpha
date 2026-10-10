@@ -6,7 +6,13 @@ This project recognizes human emotions from speech audio using Machine Learning.
 
 ## Dataset
 
-RAVDESS Speech Emotion Dataset containing 1,440 audio files.
+This project uses the RAVDESS Speech Emotion Dataset containing 1,440 audio files.
+
+Download the dataset from the official RAVDESS source:
+https://zenodo.org/records/1188976
+
+Place the extracted audio files inside the `dataset` folder before running the project.
+
 
 ## Features
 
